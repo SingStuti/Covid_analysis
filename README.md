@@ -3,8 +3,8 @@ The jobless rate in Australia has hit the highest level since September 2015, wi
 <img src="./aus.png">
 This project involves covid effect on Australian Job Market. It consists of two parts as
 1. Covid Effect Visualization on Australian employment sector wise, state wise,gender wise👨 etc
-![alt text](https://github.com/singstuti/Covid_analysis/aus2.png)
-![alt text](https://github.com/singstuti/Covid_analysis/aus3.png)
+<img src="./aus2.png">
+<img src="./aus3.png">
 2. Second part involves Timeseries Forecast for next 4 weeks in August as data is upto 15 of july.Used Arima Modeling
-![alt text](https://github.com/singstuti/Covid_analysis/forecast1.png)
-![alt text](https://github.com/singstuti/Covid_analysis/forecast2.png)
+<img src="./forecast1.png">
+<img src="./forecast2.png">
